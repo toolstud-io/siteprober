@@ -1,7 +1,7 @@
 <?php
 
-namespace VendorName\Skeleton;
+namespace Toolstudio\Siteprober;
 
-class SkeletonClass
+class SiteproberClass
 {
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Toolstudio\Siteprober\Tests;
 
 use PHPUnit\Framework\TestCase;
 

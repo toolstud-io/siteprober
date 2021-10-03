@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_slug/:package_slug",
-    "description": ":package_description",
+    "name": "toolstudio/siteprober",
+    "description": "PHP package for detecting CMS, plugins on external websites",
     "keywords": [
-        ":vendor_name",
-        ":package_slug"
+        "toolstudio",
+        "siteprober"
     ],
-    "homepage": "https://github.com/:vendor_slug/:package_slug",
+    "homepage": "https://github.com/toolstudio/siteprober",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "Peter Forret",
+            "email": "peter@forret.com",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "Toolstudio\\Siteprober\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "Toolstudio\\Siteprober\\Tests\\": "tests"
         }
     },
     "scripts": {
